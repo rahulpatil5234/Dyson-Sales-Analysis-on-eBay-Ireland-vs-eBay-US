@@ -338,11 +338,3 @@ Customers reviews analyzing of eBay US separately by splitting reviews by 3 revi
 ![us_reviews](readme_files/us_reviews.png)
 
 
-
-## Full Dashboard Screencast
-
-Click on the image to watch full dashboard screencast with comments:
-
-<a href="https://youtu.be/A2tb6A7xYHI" target="_blank">
-    <img src="readme_files/full_screencast.png" alt="Watch the video" width="500" />
-</a>
